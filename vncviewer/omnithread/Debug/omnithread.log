@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/3/7 15:40:37。
+     1>项目“U:\myuvnc_dev_20170307\vncviewer\omnithread\omnithread.vcxproj”在节点 4 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\omnithread.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"U:\myuvnc_dev_20170307\vncviewer\Debug\omnithread.lib" /NOLOGO Debug\nt.obj
+         omnithread.vcxproj -> U:\myuvnc_dev_20170307\vncviewer\Debug\omnithread.lib
+       FinalizeBuildStatus:
+         正在删除文件“Debug\omnithread.unsuccessfulbuild”。
+         正在对“Debug\omnithread.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“U:\myuvnc_dev_20170307\vncviewer\omnithread\omnithread.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.34
